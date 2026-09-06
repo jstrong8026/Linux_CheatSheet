@@ -8,6 +8,9 @@ cd - change directory ie: cd ~/music
 
 ls - lists the contents of the current directory
 ls -l  lists the contents of the current directory and adds information (ie: file size, permissions, etc.)
+mv <filname1> <filename2>  move can either rename a file within a directory or move a file to a new directory if you specify a new directory in the destination
+
+
 
 
 
