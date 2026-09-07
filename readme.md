@@ -14,6 +14,9 @@ mv filname1 filename2  move can either rename a file within a directory or move 
 
 more filename   shows the first part of a file (ie: a text file would show howevermuch text could be displayed on the screen. Space Bar avances to show more of the file, q will quit)
 
+mkdir  <make directory> (make directory) #make directory#
+
+
 
 
 
