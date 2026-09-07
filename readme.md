@@ -16,6 +16,7 @@ more filename   shows the first part of a file (ie: a text file would show howev
 
 mkdir  <make directory> (make directory) #make directory#
 
+chmod  --> change permissions on a directory or file
 
 
 
